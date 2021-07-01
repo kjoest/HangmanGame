@@ -43,11 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="HangmanRepo.cs" />
     <Compile Include="ProgramUI.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="View\HangmanInterface.cs" />
-    <Compile Include="View\HangmanRepo.cs" />
+    <Compile Include="Interface\HangmanInterface.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

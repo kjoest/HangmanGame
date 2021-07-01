@@ -12,7 +12,9 @@ namespace Hangman
         // Possible words the user has to guess
         private static readonly string[] HangmanWords = 
         {
-            "HANGMAN"
+            "HANGMAN", "SUBWAY", "LUCKY", "JACKPOT", 
+            "APPLE", "BLITZ", "BANJO", "JUNE", "FLAPJACK", 
+            "ZIPPER", "JAZZ", "WAVE", "DOG"
         };
 
         static void Main(string[] args)

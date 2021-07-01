@@ -1,10 +1,11 @@
-﻿using System;
+﻿using Hangman.View;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Hangman.View
+namespace Hangman
 {
     public class HangmanRepo : HangmanInterface
     {
